@@ -12,7 +12,7 @@ If you copy this theme for your own needs, feel free to customize the colors how
 
 # Using with Other Systems
 
-If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme As for WordPress theming options, EtherTyper has put together a paclage for that too. Its aailable at https://github.com/EtherTyper/cayman-wp
+If you'd like to use this theme with Jekyll, Pietro Menna has put together a package to make it easy. You can find it at https://github.com/pietromenna/jekyll-cayman-theme As for WordPress theming options, EtherTyper has put together a paclage for that too. Its available at https://github.com/EtherTyper/cayman-wp
 
 # License
 
